@@ -2,7 +2,8 @@
 
 Software Developer @ Hazzino Technologies
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://logesh-s.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://logesh-s.web.app/)
+- 💻 Frontend Developer | React & MERN Stack                                                   
 - 🌱 I’m currently learning DevOps
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/logeshsasi18)
 
