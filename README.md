@@ -4,7 +4,7 @@ Software Developer @ Hazzino Technologies
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://logesh-s.web.app/)                                                 
 - 🌱 I’m currently learning DevOps
-- Reach me: [LinkedIn](https://www.linkedin.com/in/logeshsasi18)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/logeshsasi18)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
