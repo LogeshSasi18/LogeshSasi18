@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Logesh
 
-Software Developer @ Hazzino Technologies
+Software Developer @ Hazzino Technologies 
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
